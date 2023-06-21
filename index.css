@@ -1,0 +1,58 @@
+html{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+article{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    max-width: 500px;
+    background-image: linear-gradient(280deg,white,red);
+    margin: auto;
+    padding: auto;
+    border-width: auto;
+}
+
+img{
+    border: 2px solid yellow;
+    width: 200px;
+    height: auto;
+}
+
+header{
+    text-align: center;
+}
+
+#Lista{
+    background-color: red;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    max-width: 400px;
+    padding: auto;
+    margin: auto;
+}
+
+ul li{
+    font-weight: bolder;
+    list-style-type: none;
+}
+
+li a{
+    color: yellow;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-weight: bolder;
+    font-size: 25px;
+}
